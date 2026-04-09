@@ -15,8 +15,9 @@ This guide explains step-by-step how to install and configure the **ELK Stack** 
 
 ## Installation Steps
 
-```bash
 # 1. Update System Packages
+```bash
+
 sudo apt update
 sudo apt upgrade -y
 ```
