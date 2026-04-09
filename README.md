@@ -102,6 +102,7 @@ sudo systemctl enable kibana
 sudo systemctl status kibana
 ```
 # 6. Access the ELK Stack
-
+```
 # Elasticsearch: http://<server-ip>:9200
 # Kibana: http://<server-ip>:5601
+```
